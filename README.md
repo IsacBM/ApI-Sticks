@@ -1,7 +1,7 @@
 # ApI-Sticks
 Aplicação criada para consumir a API do IMDb e exibir os 250 filmes/séries mais populares, destacando seus pôsteres e visualizando sua classificação.
 
-## Desafios propostos na **Aula-1** que foram realizados:
+## Alguns desafios propostos na **Aula-1** que foram realizados:
 1- [Desafio] Consumir o endpoint de filmes mais populares da API do IMDB. 
 Procure também, na documentação da API do IMDB, o endpoint que
  retorna as melhores séries e o que retorna as séries mais populares.
