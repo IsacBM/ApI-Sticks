@@ -24,7 +24,14 @@ Aplicação criada durante a **`Imersão Java`**, realizada pela **[Alura](https
 7 - `[Desafio]` Colocar contorno (outline) no texto da imagem. <br>
 8 - `[Desafio]` Tratar as imagens retornadas pela API do IMDB para pegar uma imagem maior ao invés dos thumbnails. Opções: pegar a URL da imagem e remover o trecho mostrado durante a aula ou consumir o endpoint de posters da API do IMDB (mais trabalhoso), tratando o JSON retornado. <br>
 9 - `[Desafio]` Fazer com que o texto da figurinha seja personalizado de acordo com as classificações do IMDB. <br>
-10 - `[Desafio]`: usar alguma biblioteca de manipulação de imagens como OpenCV pra extrair imagem principal e contorná-la. <br>
+10 - `[Desafio]`: usar alguma biblioteca de manipulação de imagens como **[OpenCV](https://github.com/opencv-java)** pra extrair imagem principal e contorná-la. <br>
+
+## Instrutores e Instrutoras da Alura nessa imersão:
+
+![Jac](https://user-images.githubusercontent.com/91500212/179819791-9141102f-57af-4cdc-9557-2cfd2845b033.png)
+![Ale](https://user-images.githubusercontent.com/91500212/179819849-67a31bcb-4deb-47cd-9eee-2994d94c3d09.png)
+![Sil](https://user-images.githubusercontent.com/91500212/179819864-2ba034c0-4632-4c2f-b232-a629d1ee48da.png)
+
 
 
 #### #ImersãoJava
@@ -33,5 +40,3 @@ Aplicação criada durante a **`Imersão Java`**, realizada pela **[Alura](https
   <a href="https://www.java.com/pt-BR/download/help/whatis_java.html" target="_blank"><img target="_blank"> <img src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=java&logoColor=fc1723" align="center" alt="Isac-JAVA" height="30" width="85" hspace="220" target="_blank"></a>
   <a href="https://www.instagram.com/isacbm_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=hotpink" align="right" alt="Instagram" height="30"  target="_blank"></a> </div>
   </p>
-
-
