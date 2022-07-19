@@ -18,7 +18,7 @@ Procure também, na documentação da API do IMDB, o endpoint que
 
 3 - `[Desafio]` Colocar a chave da API do IMDB em algum lugar fora do código como um arquivo de configuração (p. ex, um arquivo .properties) ou uma variável de ambiente.  `[IMPLEMENTANDO]`
 
-4 - `[Desafio]` Mudar o JsonParser para usar uma biblioteca de parsing de JSON como Jackson ou GSON.  `[IMPLEMENTANDO]`
+4 - `[Desafio]` Mudar o JsonParser para usar uma biblioteca de parsing de JSON como Jackson ou GSON.`[IMPLEMENTANDO]`
 
 5 - `[Desafio Supremo]` : Criar alguma maneira para você dar uma avaliação ao filme, puxando de algum arquivo de configuração OU pedindo a avaliação para o usuário digitar no terminal.  `[IMPLEMENTANDO]`
 
