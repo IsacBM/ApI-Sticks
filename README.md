@@ -1,13 +1,13 @@
 # Imersão Java
 Aplicação criada durante a **`Imersão Java`**, realizada pela **[Alura](https://www.alura.com.br/)**, essa aplicação vai consumir a **[API do IMDb](https://imdb-api.com/)** e exibir os 250 filmes/séries mais populares, destacando seus pôsteres, classificação, quantidade de votos é seus autores... Isso tudo sem utilizar nenhuma biblioteca externa!
 
-## Links Mais Utilizados:
+## Links Utilizados:
 • [Endpoint da API do IMDB](https://imdb-api.com/api#Top250Movies-header) que devolve os 250 melhores filmes. <br>
 • [Endpoint alternativo a API do IMDB](https://alura-filmes.herokuapp.com/conteudos). <br>
 • [Documentação da API do IMDB](https://imdb-api.com/api). <br>
 • [Documentação da Classe HttpRequest](https://docs.oracle.com/en/java/javase/17/docs/api/java.net.http/java/net/http/HttpRequest.html). <br>
 
-## Materiais Complementares da Alura:
+## Materiais Complementares:
 ### Material da Aula 01:
 • Artigo na Alura: [O que é JSON?](https://www.alura.com.br/artigos/o-que-e-json). <br>
 • Artigo na Alura: [Decore o terminal com cores e emojis](https://docs.oracle.com/en/java/javase/17/docs/api/java.net.http/java/net/http/HttpRequest.html). <br>
