@@ -1,5 +1,5 @@
 # Imersão Java
-Aplicação criada durante a **`Imersão Java`**, realizada pela **[Alura](https://www.alura.com.br/)**, essa aplicação vai consumir a **[API do IMDb](https://imdb-api.com/)** e exibir os 250 filmes/séries mais populares, destacando seus pôsteres, classificação, quantidade de votos é seus autores... Isso tudo sem utilizar nenhuma biblioteca externa!
+A **`Imersão Java`**, realizada pela **[Alura](https://www.alura.com.br/)**, se constituiu em 5 aulas de programação, gratuitas, para que programadores conseguissem desenvolver do zero sua primeira aplicação em Java, progredindo na carreira e ampliando ou começando o seu portfólio.
 
 ## Links Utilizados:
 • [Endpoint da API do IMDB](https://imdb-api.com/api#Top250Movies-header) que devolve os 250 melhores filmes. <br>
@@ -7,14 +7,13 @@ Aplicação criada durante a **`Imersão Java`**, realizada pela **[Alura](https
 • [Documentação da API do IMDB](https://imdb-api.com/api). <br>
 • [Documentação da Classe HttpRequest](https://docs.oracle.com/en/java/javase/17/docs/api/java.net.http/java/net/http/HttpRequest.html). <br>
 
-## Materiais Complementares:
-### Material da Aula 01:
+## AULA 01 - CONSUMINDO UMA API DE FILMES COM JAVA
+Aplicação criada durante a **`Imersão Java`**, realizada pela **[Alura](https://www.alura.com.br/)**, essa aplicação vai consumir a **[API do IMDb](https://imdb-api.com/)** e exibir os 250 filmes/séries mais populares, destacando seus pôsteres, classificação, quantidade de votos é seus autores... Isso tudo sem utilizar nenhuma biblioteca externa!
+
+## Materiais Complementares da Aula 01:
 • Artigo na Alura: [O que é JSON?](https://www.alura.com.br/artigos/o-que-e-json). <br>
 • Artigo na Alura: [Decore o terminal com cores e emojis](https://docs.oracle.com/en/java/javase/17/docs/api/java.net.http/java/net/http/HttpRequest.html). <br>
 • Artigo na Alura: [Aplicações Java com o VS Code](https://www.alura.com.br/artigos/desenvolvendo-aplicacoes-java-vs-code). <br>
-### Material da Aula 02:
-• Aula do Curso da Alura: [Java Polimorfismo: entenda herança e interfaces](https://www.alura.com.br/conteudo/java-heranca-interfaces-polimorfismo). <br>
-• Apostila da Alura: [Java e Orientação a Objetos](https://www.alura.com.br/apostila-java-orientacao-objetos/apendice-pacote-java-io). <br>
 
 ## Desafios propostos na **Aula-1** que já foram realizados/ainda estão sendo realizados:
 1 - `[Desafio]` Consumir o endpoint de filmes mais populares da API do IMDB. Procure também, na documentação da API do IMDB, o endpoint que retorna as melhores séries e o que retorna as séries mais populares.<br>
@@ -22,6 +21,12 @@ Aplicação criada durante a **`Imersão Java`**, realizada pela **[Alura](https
 3 - `[Desafio]` Colocar a chave da API do IMDB em algum lugar fora do código como um arquivo de configuração (p. ex, um arquivo .properties) ou uma variável de ambiente.  `[Em Andamento]` <br>
 4 - `[Desafio]` Mudar o JsonParser para usar uma biblioteca de parsing de JSON como Jackson ou GSON.  `[Em Andamento]` <br>
 5 - `[Desafio]` : Criar alguma maneira para você dar uma avaliação ao filme, puxando de algum arquivo de configuração OU pedindo a avaliação para o usuário digitar no terminal.  `[Em Andamento]` <br>
+
+## AULA 02 - GERANDO FIGURINHAS PARA WHATSAPP
+
+## Materiais Complementares da Aula 02:
+• Aula do Curso da Alura: [Java Polimorfismo: entenda herança e interfaces](https://www.alura.com.br/conteudo/java-heranca-interfaces-polimorfismo). <br>
+• Apostila da Alura: [Java e Orientação a Objetos](https://www.alura.com.br/apostila-java-orientacao-objetos/apendice-pacote-java-io). <br>
 
 ## Desafios propostos na **Aula-2** que já foram realizados/ainda estão sendo realizados:
 1 - `[Desafio]` Ler a documentação da classe abstrata InputStream. <br>
