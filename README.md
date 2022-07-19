@@ -26,9 +26,15 @@ Aplicação criada durante a **`Imersão Java`**, realizada pela **[Alura](https
 9 - `[Desafio]` Fazer com que o texto da figurinha seja personalizado de acordo com as classificações do IMDB. <br>
 10 - `[Desafio]`: usar alguma biblioteca de manipulação de imagens como **[OpenCV](https://github.com/opencv-java)** pra extrair imagem principal e contorná-la. <br>
 
-## Instrutores e Instrutoras da Alura nessa imersão:
+## Instrutores e Instrutoras da Alura nessa Imersão:
 
 ![Jac](https://user-images.githubusercontent.com/91500212/179819791-9141102f-57af-4cdc-9557-2cfd2845b033.png)
+<p float="center">
+<a href="https://www.instagram.com/isacbm_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=hotpink" align="center" alt="Instagram" height="30"  target="_blank"></a> </div>
+  <a href="https://www.linkedin.com/in/isacbm/" target="_blank"><img align="center" alt="Linkedin" height="30" src="https://img.shields.io/badge/linkedin-1a1b27.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
+  </div>
+  </p>
+  
 ![Ale](https://user-images.githubusercontent.com/91500212/179819849-67a31bcb-4deb-47cd-9eee-2994d94c3d09.png)
 ![Sil](https://user-images.githubusercontent.com/91500212/179819864-2ba034c0-4632-4c2f-b232-a629d1ee48da.png)
 
