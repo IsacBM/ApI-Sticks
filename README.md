@@ -39,7 +39,22 @@ Aplicação criada durante a **`Imersão Java`**, realizada pela **[Alura](https
 7 - `[Desafio]` Colocar contorno (outline) no texto da imagem. <br>
 8 - `[Desafio]` Tratar as imagens retornadas pela API do IMDB para pegar uma imagem maior ao invés dos thumbnails. Opções: pegar a URL da imagem e remover o trecho mostrado durante a aula ou consumir o endpoint de posters da API do IMDB (mais trabalhoso), tratando o JSON retornado. <br>
 9 - `[Desafio]` Fazer com que o texto da figurinha seja personalizado de acordo com as classificações do IMDB. <br>
-10 - `[Desafio]`: usar alguma biblioteca de manipulação de imagens como **[OpenCV](https://github.com/opencv-java)** pra extrair imagem principal e contorná-la. <br>
+10 - `[Desafio]` Usar alguma biblioteca de manipulação de imagens como **[OpenCV](https://github.com/opencv-java)** pra extrair imagem principal e contorná-la. <br>
+
+# AULA 03 - LIGANDO AS PONTAS, REFATORAÇÃO E ORIENTAÇÃO A OBJETOS
+
+## Materiais Complementares da Aula 03:
+• Artigo na Alura: [Como não aprender Java e Orientação a Objetos: herança](https://www.alura.com.br/artigos/como-nao-aprender-orientacao-a-objetos-heranca). <br>
+• Podcast Hipsters.tech sobre: [Práticas de Orientação a Objetos](https://www.alura.com.br/podcast/praticas-de-orientacao-a-objetos-hipsters-129-a453). <br>
+• Podcast Hipsters.tech sobre: [Design Patterns](https://www.alura.com.br/podcast/design-patterns-hipsters-206-a345). <br>
+• Podcast Hipsters.tech sobre: [SOLID](https://www.alura.com.br/podcast/solid-codigo-bom-e-bonito-hipsters-ponto-tech-219-a649). <br>
+
+## Desafios propostos na **Aula-2** que já foram realizados/ainda estão sendo realizados:
+1 - `[Desafio]` Transformar a classe que representa os conteúdos em um Record, disponível a partir do Java 16 <br>
+2 - `[Desafio]` Criar as suas próprias exceções e usá-las na classe que implementa o cliente HTTP <br>
+3 - `[Desafio]` Usar recursos do Java 8 e posterior, como Streams e Lambdas, para mapear uma lista em uma outra <br>
+4 - `[Desafio]` Criar uma Enum que une, como configurações, a URL da API e o extrator utilizado <br>
+5 - `[Desafio]` Consumir outras APIs que contém imagens, como a da Marvel, que é bem diferente. Repositório com APIs públicas: [clique aqui](https://github.com/public-apis/public-apis). <br>
 
 ## Instrutores e Instrutoras da Alura nessa Imersão:
 
