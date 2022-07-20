@@ -15,7 +15,7 @@ Aplicação criada durante a **`Imersão Java`**, realizada pela **[Alura](https
 • Artigo na Alura: [Decore o terminal com cores e emojis](https://docs.oracle.com/en/java/javase/17/docs/api/java.net.http/java/net/http/HttpRequest.html). <br>
 • Artigo na Alura: [Aplicações Java com o VS Code](https://www.alura.com.br/artigos/desenvolvendo-aplicacoes-java-vs-code). <br>
 
-## Desafios propostos na **Aula-1** que já foram realizados/ainda estão sendo realizados:
+## Desafios da **Aula 01** que já foram realizados/ainda estão sendo realizados:
 1 - `[Desafio]` Consumir o endpoint de filmes mais populares da API do IMDB. Procure também, na documentação da API do IMDB, o endpoint que retorna as melhores séries e o que retorna as séries mais populares.<br>
 2 - `[Desafio]` Usar sua criatividade para deixar a saída dos dados mais bonitinha: usar emojis com código UTF-8, mostrar a nota do filme como estrelinhas, decorar o terminal com cores, negrito e itálico usando códigos ANSI, e mais!<br>
 3 - `[Desafio]` Colocar a chave da API do IMDB em algum lugar fora do código como um arquivo de configuração (p. ex, um arquivo .properties) ou uma variável de ambiente.  `[Em Andamento]` <br>
@@ -29,7 +29,7 @@ Aplicação criada durante a **`Imersão Java`**, realizada pela **[Alura](https
 • Aula do Curso da Alura: [Java Polimorfismo: entenda herança e interfaces](https://www.alura.com.br/conteudo/java-heranca-interfaces-polimorfismo). <br>
 • Apostila da Alura: [Java e Orientação a Objetos](https://www.alura.com.br/apostila-java-orientacao-objetos/apendice-pacote-java-io). <br>
 
-## Desafios propostos na **Aula-2** que já foram realizados/ainda estão sendo realizados:
+## Desafios da **Aula 02** que já foram realizados/ainda estão sendo realizados:
 1 - `[Desafio]` Ler a documentação da classe abstrata InputStream. <br>
 2 - `[Desafio]` Centralizar o texto na figurinha. <br>
 3 - `[Desafio]` Fazer um pacote no Whatsapp e/ou Telegram com as suas próprias figurinhas! <br>
@@ -49,7 +49,7 @@ Aplicação criada durante a **`Imersão Java`**, realizada pela **[Alura](https
 • Podcast Hipsters.tech sobre: [Design Patterns](https://www.alura.com.br/podcast/design-patterns-hipsters-206-a345). <br>
 • Podcast Hipsters.tech sobre: [SOLID](https://www.alura.com.br/podcast/solid-codigo-bom-e-bonito-hipsters-ponto-tech-219-a649). <br>
 
-## Desafios propostos na **Aula-2** que já foram realizados/ainda estão sendo realizados:
+## Desafios da **Aula 03** que já foram realizados/ainda estão sendo realizados:
 1 - `[Desafio]` Transformar a classe que representa os conteúdos em um Record, disponível a partir do Java 16 <br>
 2 - `[Desafio]` Criar as suas próprias exceções e usá-las na classe que implementa o cliente HTTP <br>
 3 - `[Desafio]` Usar recursos do Java 8 e posterior, como Streams e Lambdas, para mapear uma lista em uma outra <br>
