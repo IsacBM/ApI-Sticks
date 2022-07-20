@@ -11,6 +11,8 @@ A **`Imersão Java`**, realizada pela **[Alura](https://www.alura.com.br/)**, se
 • **[Documentação das APIs da NASA](https://api.nasa.gov/)**. <br>
 • **[API da Foto Astronômica do dia da NASA](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY)**. <br>
 
+***
+
 # AULA 01 - CONSUMINDO UMA API DE FILMES COM JAVA
 Aplicação criada durante a **`Imersão Java`**, realizada pela **[Alura](https://www.alura.com.br/)**, essa aplicação vai consumir a **[API do IMDb](https://imdb-api.com/)** e exibir os 250 filmes/séries mais populares, destacando seus pôsteres, classificação, quantidade de votos é seus autores... Isso tudo sem utilizar nenhuma biblioteca externa!
 
@@ -19,12 +21,14 @@ Aplicação criada durante a **`Imersão Java`**, realizada pela **[Alura](https
 • Artigo na Alura: **[Decore o terminal com cores e emojis](https://docs.oracle.com/en/java/javase/17/docs/api/java.net.http/java/net/http/HttpRequest.html)**. <br>
 • Artigo na Alura: **[Aplicações Java com o VS Code](https://www.alura.com.br/artigos/desenvolvendo-aplicacoes-java-vs-code)**. <br>
 
-## | Desafios da **Aula 01** que já foram realizados/ainda estão sendo realizados:
+## | Desafios da **Aula 01**:
 - [x] **`[Desafio]`** Consumir o endpoint de filmes mais populares da API do IMDB. Procure também, na documentação da API do IMDB, o endpoint que retorna as melhores séries e o que retorna as séries mais populares.<br>
 - [x] **`[Desafio]`** Usar sua criatividade para deixar a saída dos dados mais bonitinha: usar emojis com código UTF-8, mostrar a nota do filme como estrelinhas, decorar o terminal com cores, negrito e itálico usando códigos ANSI, e mais!<br>
 - [ ] **`[Desafio]`** Colocar a chave da API do IMDB em algum lugar fora do código como um arquivo de configuração (p. ex, um arquivo .properties) ou uma variável de ambiente.  `[Em Andamento]` <br>
 - [ ] **`[Desafio]`** Mudar o JsonParser para usar uma biblioteca de parsing de JSON como Jackson ou GSON.  `[Em Andamento]` <br>
 - [ ] **`[Desafio]`** : Criar alguma maneira para você dar uma avaliação ao filme, puxando de algum arquivo de configuração OU pedindo a avaliação para o usuário digitar no terminal.  `[Em Andamento]` <br>
+
+***
 
 # AULA 02 - GERANDO FIGURINHAS PARA WHATSAPP
  Desenvolvendo um gerador de figurinhas em cima da aplicação e explorando outras bibliotecas nativas do Java, para que possamos enviar por Whatsapp os nossos filmes preferidos!
@@ -33,7 +37,7 @@ Aplicação criada durante a **`Imersão Java`**, realizada pela **[Alura](https
 • Aula do Curso da Alura: **[Java Polimorfismo: entenda herança e interfaces](https://www.alura.com.br/conteudo/java-heranca-interfaces-polimorfismo)**. <br>
 • Apostila da Alura: **[Java e Orientação a Objetos](https://www.alura.com.br/apostila-java-orientacao-objetos/apendice-pacote-java-io)**. <br>
 
-## | Desafios da **Aula 02** que já foram realizados/ainda estão sendo realizados:
+## | Desafios da **Aula 02**:
 - [ ] **`[Desafio]`** Ler a documentação da classe abstrata InputStream. <br>
 - [ ] **`[Desafio]`** Centralizar o texto na figurinha. <br>
 - [ ] **`[Desafio]`** Fazer um pacote no Whatsapp e/ou Telegram com as suas próprias figurinhas! <br>
@@ -45,6 +49,8 @@ Aplicação criada durante a **`Imersão Java`**, realizada pela **[Alura](https
 - [ ] **`[Desafio]`** Fazer com que o texto da figurinha seja personalizado de acordo com as classificações do IMDB. <br>
 - [ ] **`[Desafio]`** Usar alguma biblioteca de manipulação de imagens como **[OpenCV](https://github.com/opencv-java)** pra extrair imagem principal e contorná-la. <br>
 
+***
+
 # AULA 03 - LIGANDO AS PONTAS, REFATORAÇÃO E ORIENTAÇÃO A OBJETOS
 Aproveitando para melhorar nosso código com as refatorações necessárias para torná-lo mais flexível e fácil de entender.
 
@@ -54,12 +60,14 @@ Aproveitando para melhorar nosso código com as refatorações necessárias para
 • Podcast Hipsters.tech sobre: **[Design Patterns](https://www.alura.com.br/podcast/design-patterns-hipsters-206-a345)**. <br>
 • Podcast Hipsters.tech sobre: **[SOLID](https://www.alura.com.br/podcast/solid-codigo-bom-e-bonito-hipsters-ponto-tech-219-a649)**. <br>
 
-## | Desafios da **Aula 03** que já foram realizados/ainda estão sendo realizados:
+## | Desafios da **Aula 03**:
 - [ ] **`[Desafio]`** Transformar a classe que representa os conteúdos em um Record, disponível a partir do Java 16 <br>
 - [ ] **`[Desafio]`** Criar as suas próprias exceções e usá-las na classe que implementa o cliente HTTP <br>
 - [ ] **`[Desafio]`** Usar recursos do Java 8 e posterior, como Streams e Lambdas, para mapear uma lista em uma outra <br>
 - [ ] **`[Desafio]`** Criar uma Enum que une, como configurações, a URL da API e o extrator utilizado <br>
 - [ ] **`[Desafio]`** Consumir outras APIs que contém imagens, como a da Marvel, que é bem diferente. Repositório com APIs públicas: **[APIs](https://github.com/public-apis/public-apis)**. <br>
+
+***
 
 ## Instrutores e Instrutoras da Alura nessa Imersão:
 
