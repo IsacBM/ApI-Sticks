@@ -67,6 +67,5 @@ Aproveitando para melhorar nosso código com as refatorações necessárias para
 | :---: | :---: | :---: |
 
 <h4 align="center">
-<strong>#ImersãoJava</strong> <br>
-:heart:
+<strong>#ImersãoJava</strong>:heart: <br>
 </h4>
