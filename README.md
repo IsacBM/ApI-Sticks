@@ -66,5 +66,6 @@ Aproveitando para melhorar nosso código com as refatorações necessárias para
 | [<img src="https://avatars.githubusercontent.com/u/258331?v=4" width=115><br><sub>Alexandre Aquiles</sub>](https://github.com/alexandreaquiles) |  [<img src="https://avatars.githubusercontent.com/u/66698429?v=4" width=115><br><sub>Jacqueline Oliveira</sub>](https://github.com/jacqueline-oliveira) |  [<img src="https://avatars.githubusercontent.com/u/71636?v=4" width=115><br><sub>Paulo Silveira</sub>](https://github.com/peas) |
 | :---: | :---: | :---: |
 
-#### #ImersãoJava
-
+<h4 align="center">
+<strong>#ImersãoJava</strong>
+</h4>
