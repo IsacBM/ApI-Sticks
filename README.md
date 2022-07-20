@@ -23,7 +23,7 @@ Aplicação criada durante a **`Imersão Java`**, realizada pela **[Alura](https
 5 - `[Desafio]` : Criar alguma maneira para você dar uma avaliação ao filme, puxando de algum arquivo de configuração OU pedindo a avaliação para o usuário digitar no terminal.  `[Em Andamento]` <br>
 
 # AULA 02 - GERANDO FIGURINHAS PARA WHATSAPP
- Desenvolvendo um gerador de figurinhas em cima da aplicação explorando outras bibliotecas nativas do Java, para que possamos enviar por Whatsapp os nossos filmes preferidos!
+ Desenvolvendo um gerador de figurinhas em cima da aplicação e explorando outras bibliotecas nativas do Java, para que possamos enviar por Whatsapp os nossos filmes preferidos!
 
 ## Materiais Complementares da Aula 02:
 • Aula do Curso da Alura: [Java Polimorfismo: entenda herança e interfaces](https://www.alura.com.br/conteudo/java-heranca-interfaces-polimorfismo). <br>
@@ -42,6 +42,7 @@ Aplicação criada durante a **`Imersão Java`**, realizada pela **[Alura](https
 10 - `[Desafio]` Usar alguma biblioteca de manipulação de imagens como **[OpenCV](https://github.com/opencv-java)** pra extrair imagem principal e contorná-la. <br>
 
 # AULA 03 - LIGANDO AS PONTAS, REFATORAÇÃO E ORIENTAÇÃO A OBJETOS
+Aproveitando para melhorar nosso código com as refatorações necessárias para torná-lo mais flexível e fácil de entender.
 
 ## Materiais Complementares da Aula 03:
 • Artigo na Alura: [Como não aprender Java e Orientação a Objetos: herança](https://www.alura.com.br/artigos/como-nao-aprender-orientacao-a-objetos-heranca). <br>
