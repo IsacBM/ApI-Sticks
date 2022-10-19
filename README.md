@@ -1,5 +1,5 @@
 # IMERSÃO JAVA
-> Status do Projeto: Em desenvolvimento :hourglass:
+> Status do Projeto: Terminado 
 <!-- Status do Projeto: Concluido :heavy_check_mark:-->
 A **`Imersão Java`**, realizada pela **[Alura](https://www.alura.com.br/)**, se constituiu em 5 aulas de programação, gratuitas, para que programadores conseguissem desenvolver do zero sua primeira aplicação em Java, progredindo na carreira e ampliando ou começando o seu portfólio.
 
